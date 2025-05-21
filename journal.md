@@ -1,4 +1,7 @@
+
 this the first journal that i created in my Git
+the second line is important
+
 # introduction
 This very important article about brainhack
 
